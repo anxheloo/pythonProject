@@ -29,3 +29,31 @@ def twice(func,args):
     return func(func(args))     #-> this function should add the parameter twice, in this case "10"
 
 print(twice(add_ten,10))
+
+
+
+print()
+
+
+#Multi Argument Function
+def function(*args):
+    sum = 0
+    for i in range(len(args)):
+        sum +=args[i]
+
+    print(sum)
+
+
+function(1,2,3,4)
+
+
+
+print()
+
+#Multi Arguments With Keywords and Values
+def printAllVariableNamesAndValues(**args):
+    for x in args:
+        print("Variable Name is: ",x, " And value is :",args[x])
+
+
+printAllVariableNamesAndValues(a = 3, b = "B", c = "CCC", y = 6.7)
