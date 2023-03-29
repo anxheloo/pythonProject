@@ -32,3 +32,41 @@ print("Dec" in monthConversions)      #get True or False by checking if the key 
 
 print("Luv","Not a valid key")        #instead of printing none for non existing keys, we give that a dafault value instead of none
 
+#Adding key: 1 -> with value "Newly Added"
+monthConversions[1] = "Newly Added"
+print(monthConversions)
+
+#We change the value of key 1
+monthConversions[1] = "newly"
+print(monthConversions)
+
+#Deleting the key 1 and its value from dictionary | This works by giving the key
+del monthConversions[1]
+print(monthConversions)
+
+
+#We can also update our Dictionary using .update({}) function
+monthConversions.update({2:'hey',"3":'ca bone'})
+print(monthConversions)
+
+
+#We can also create a Dictionary that stores a List, Tuple, or Set
+
+ourList = [1,2,3,4]
+
+ourTuple = (1,2,3,4)
+
+ourSet = {1,2,3,4}
+
+Dictionary = { 'list' : ourList, 'tuple' : ourTuple, 'set' : ourSet }
+
+
+print(Dictionary['list'])       #Access our list by the key: 'list'
+print(Dictionary['list'][1])    #Access our element at index 1 of our list by giving the key and the index
+
+print(Dictionary['tuple'][1])   #Same with tuple
+
+
+#Print all elements of the Dictionary
+for x in Dictionary:
+    print(x, Dictionary[x])
