@@ -61,8 +61,10 @@ result = list(filter(lambda x: x % 2 == 0, newlist))
 
 print(result)  # -> it prints even numbers
 
-
-
+# index() function to print the index of an element inside a list
+my_list = ['apple', 'banana', 'orange', 'grape']
+index = my_list.index('banana')
+print(f"The index of '{'banana'}' in the list is: {index}")
 
 
 
