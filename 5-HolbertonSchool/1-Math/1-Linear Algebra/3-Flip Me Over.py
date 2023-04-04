@@ -4,7 +4,9 @@
 # You can assume that matrix is never empty
 # You can assume all elements in the same dimension are of the same type/shape
 
+import numpy as np
 
+#WAY 1
 def matrix_transpose(matrix):
     transpose = []
 
@@ -15,6 +17,14 @@ def matrix_transpose(matrix):
         transpose.append(row)
 
     return transpose
+
+
+
+#WAY 2 - using numpy
+def matrix_transpose(matrix):
+    transpose = np.array(matrix)
+
+    return transpose.transpose()
 
 
 mat1 = [[1, 2], [3, 4]]
