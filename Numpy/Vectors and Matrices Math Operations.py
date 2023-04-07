@@ -49,3 +49,23 @@ print("A * B product is: ", C)
 print("np.matmul function of 2 matrices is: ", np.matmul(A, B))
 print("matrix1.dot(matrix2) is : ", A.dot(B))
 print(" sum of np.matmul function of both vectors is: ", np.matmul(A, B).sum())
+
+
+
+#Matrix and Vector multiplication
+
+a = np.array([[1,2,3],
+              [4,5,6]])
+
+b = np.array([2,3,4])
+
+#Multiply a matrix and a vector gives as the a new matrix with same dimensions as given matrix: [ [1*2 2*3 3*4] ,[4*2 5*3 6*4] ]
+c = a * b
+print(c)
+                                                        #Both examples are the same
+c = np.multiply(a,b)
+print(c)
+
+#Dot product: [1*2 + 2*3 + 3*4      4*1 + 5*3 + 6*4 ]
+c = a.dot(b)
+print(c)
