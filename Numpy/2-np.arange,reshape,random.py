@@ -27,6 +27,11 @@ print(b)
 b = np.random.randint(20,30)
 print(b)
 
+# create a numpy array with random numbers from 0 to 100
+arr = np.random.randint(0, 101, size=(5, 5))
+
+print(arr)
+
 
 # creates a random number between 0-1
 b = np.random.rand()

@@ -24,6 +24,7 @@ np.random.seed(1)
 
 # initialize weights randomly with mean 0
 weights = 2 * np.random.random((3, 1)) - 1
+print(weights)
 
 for iter in range(10000):
 

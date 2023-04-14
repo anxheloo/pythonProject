@@ -66,6 +66,6 @@ print(c)
 c = np.multiply(a,b)
 print(c)
 
-#Dot product: [1*2 + 2*3 + 3*4      4*1 + 5*3 + 6*4 ]
+#Dot product: [1*2 + 2*3 + 3*4      4*2 + 5*3 + 6*4 ]
 c = a.dot(b)
 print(c)
