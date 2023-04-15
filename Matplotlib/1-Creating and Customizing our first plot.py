@@ -1,4 +1,5 @@
-from matplotlib import pyplot as plt
+from matplotlib import pyplot as plt                      # -> Matplotlib Tutorials from Corey Schafer
+
 
 # Here we can check all the styles available
 print(plt.style.available)
