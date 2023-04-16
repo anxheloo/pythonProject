@@ -1,3 +1,8 @@
+'''
+Bars used to represent continuous class intervals. For Example: How many pens sold in a price range from x=[10-20, 20-30, 30-40, 40-50]
+                                                                                                         y=[15, 20, 30, 25, 5]
+'''
+
 import pandas as pd
 from matplotlib import pyplot as plt
 
