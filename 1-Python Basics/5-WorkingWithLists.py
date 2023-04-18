@@ -46,5 +46,3 @@ print(number_grid)  #print the hole 2d list
 print(number_grid[0]) #print the first list in the 2d list in this case [1,2,3]
 
 print(number_grid[0][2]) #print the number at index 2 of the list at index 0
-
-

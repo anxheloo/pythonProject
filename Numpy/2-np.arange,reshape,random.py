@@ -37,6 +37,9 @@ print(arr)
 b = np.random.rand()
 print(b)
 
+# creates 100 random floating numbers from 0-1
+b = np.random.rand(100)
+
 # create a 2D array with shape (2, 3) with values from 0-1
 b = np.random.rand(2,3)
 print(b)

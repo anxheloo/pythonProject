@@ -16,4 +16,7 @@ plt.show()
                                 '--c' -> dashed cyan
                                 '-.k' -> dashdot black
                                 ':r' -> dotted red
+                                '-'  -> solid line
+                                '--' -> dotted line
+                                'o-' -> solid line with markers for every point
 '''
