@@ -1,3 +1,8 @@
+'''
+Lists: ordered, mutable, allows dublicate elements, can hold different data types.
+'''
+mylist = list()
+print(mylist)
 
 friends = ["Kevin","Karen","Jim","Beqo","Liri Ketit"]
 print(friends)
