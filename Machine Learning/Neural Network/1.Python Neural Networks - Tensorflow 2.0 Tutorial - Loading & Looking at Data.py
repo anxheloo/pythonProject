@@ -16,7 +16,7 @@ fashion_mnist = tf.keras.datasets.fashion_mnist
 class_names = ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat',
                'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot']
 
-# We shrink down the values of pixels from 0-255 to 0-1
+# We shrink down the values of pixels from 0-255 to 0-1 for better performance
 train_images = train_images/255.0
 test_images = test_images/255.0
 
@@ -42,16 +42,16 @@ plt.show()
 model = keras.Sequential([
     # Input layer, we flatten it to have it as a shape (784,)
     keras.layers.Flatten(input_shape=(28,28)),
-    # First Hidden layer with 123 neurons using relu activation function
+    # First Hidden layer with 128 neurons using relu activation function
     keras.layers.Dense(128, activation="relu"),
     # Output layer with 10 neurons using softmax activation function
     keras.layers.Dense(10, activation="softmax")
 ])
 
 '''
-Loss function —This measures how accurate the model is during training. You want to minimize this function to "steer" the model in the right direction.
-Optimizer —This is how the model is updated based on the data it sees and its loss function.
-Metrics —Used to monitor the training and testing steps. The following example uses accuracy, the fraction of the images that are correctly classified.
+Loss function — This measures how accurate the model is during training. You want to minimize this function to "steer" the model in the right direction.
+Optimizer — This is how the model is updated based on the data it sees and its loss function.
+Metrics — Used to monitor the training and testing steps. The following example uses accuracy, the fraction of the images that are correctly classified.
 '''
 model.compile(optimizer="adam", loss="sparse_categorical_crossentropy", metrics=["accuracy"])
 
