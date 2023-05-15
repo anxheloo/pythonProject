@@ -48,7 +48,12 @@ print(sorting)
 lucky_numbers.reverse()  # reverse the list
 print(lucky_numbers)
 
-friend2 = friends.copy()  # this will copy the friends list | In fact it will point to friends so if we change friends2 it will also change friends
+#Way 1 - Copy the list
+friend2 = friends.copy()  # This will copy the friends list
+                          # If we make it simple:  'a = friends', it will point to friends so if we change 'a' it will also change friends
+#Way 2 - Copy the list
+a = [1, 2, 3, 4]
+b = list(a)
 
 print(len(friends))  # print the length of the list
 

@@ -59,13 +59,13 @@ a = np.array([[1,2,3],
 
 b = np.array([2,3,4])
 
-#Multiply a matrix and a vector gives as the a new matrix with same dimensions as given matrix: [ [1*2 2*3 3*4] ,[4*2 5*3 6*4] ]
+#Multiply a matrix and a vector gives as the a new matrix with same dimensions as given matrix: [ [1*2 + 2*3 + 3*4] ,[4*2 + 5*3 + 6*4] ]
 c = a * b
 print(c)
                                                         #Both examples are the same
 c = np.multiply(a,b)
 print(c)
 
-#Dot product: [1*2 + 2*3 + 3*4      4*1 + 5*3 + 6*4 ]
+#Dot product: [1*2 + 2*3 + 3*4      4*2 + 5*3 + 6*4 ]
 c = a.dot(b)
 print(c)

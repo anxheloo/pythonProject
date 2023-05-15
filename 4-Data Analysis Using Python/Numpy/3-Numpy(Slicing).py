@@ -28,10 +28,27 @@ print("our e is : ", e)
 e[:,1]                               #-> slice elements of e : get all the rows, and from every row choose the element at column 1
 e[1,:]  # same as  e[1][:]           #-> get all columns at row 1
 e[0:2,0:2]                           #-> get the rows from 0-2(exclude 2), and columns in each row from 0-2(exclude)
+
 print()
 
+p = np.array([[[1, 2, 3],
+               [4, 5, 6],
+               [7, 8, 9]],
+
+              [[1, 2, 3],
+               [4, 5, 6],
+               [7, 8, 9]]])
 
 
+print(p[0:1, :, 1])  #print elements 2,5,8
+print(p[1:2, :, 0])  #print elements 1,4,7
+
+print()
+
+l = np.array([1, 2, 3, 4, 5])
+print(l[::-1])      #reverse array l
+
+print()
 
 
 

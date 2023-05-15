@@ -1,0 +1,801 @@
+	Name	id	Type 1	Legendary	Total	HP	Attack	Defense	Sp. Atk	Sp. Def	Speed
+0	Bulbasaur	1	Grass	False	273	45	49	49	65	65	45
+1	Ivysaur	2	Grass	False	345	60	62	63	80	80	60
+2	Venusaur	3	Grass	False	445	80	82	83	100	100	80
+3	VenusaurMega Venusaur	3	Grass	False	545	80	100	123	122	120	80
+4	Charmander	4	Fire	False	244	39	52	43	60	50	65
+5	Charmeleon	5	Fire	False	325	58	64	58	80	65	80
+6	Charizard	6	Fire	False	434	78	84	78	109	85	100
+7	CharizardMega Charizard X	6	Fire	False	534	78	130	111	130	85	100
+8	CharizardMega Charizard Y	6	Fire	False	534	78	104	78	159	115	100
+9	Squirtle	7	Water	False	271	44	48	65	50	64	43
+10	Wartortle	8	Water	False	347	59	63	80	65	80	58
+11	Blastoise	9	Water	False	452	79	83	100	85	105	78
+12	BlastoiseMega Blastoise	9	Water	False	552	79	103	120	135	115	78
+13	Caterpie	10	Bug	False	150	45	30	35	20	20	45
+14	Metapod	11	Bug	False	175	50	20	55	25	25	30
+15	Butterfree	12	Bug	False	325	60	45	50	90	80	70
+16	Weedle	13	Bug	False	145	40	35	30	20	20	50
+17	Kakuna	14	Bug	False	170	45	25	50	25	25	35
+18	Beedrill	15	Bug	False	320	65	90	40	45	80	75
+19	BeedrillMega Beedrill	15	Bug	False	350	65	150	40	15	80	145
+20	Pidgey	16	Normal	False	195	40	45	40	35	35	56
+21	Pidgeotto	17	Normal	False	278	63	60	55	50	50	71
+22	Pidgeot	18	Normal	False	378	83	80	75	70	70	101
+23	PidgeotMega Pidgeot	18	Normal	False	458	83	80	80	135	80	121
+24	Rattata	19	Normal	False	181	30	56	35	25	35	72
+25	Raticate	20	Normal	False	316	55	81	60	50	70	97
+26	Spearow	21	Normal	False	192	40	60	30	31	31	70
+27	Fearow	22	Normal	False	342	65	90	65	61	61	100
+28	Ekans	23	Poison	False	233	35	60	44	40	54	55
+29	Arbok	24	Poison	False	358	60	85	69	65	79	80
+30	Pikachu	25	Electric	False	230	35	55	40	50	50	90
+31	Raichu	26	Electric	False	375	60	90	55	90	80	110
+32	Sandshrew	27	Ground	False	260	50	75	85	20	30	40
+33	Sandslash	28	Ground	False	385	75	100	110	45	55	65
+34	Nidoran (Female)	29	Poison	False	234	55	47	52	40	40	41
+35	Nidorina	30	Poison	False	309	70	62	67	55	55	56
+36	Nidoqueen	31	Poison	False	429	90	92	87	75	85	76
+37	Nidoran (Male)	32	Poison	False	223	46	57	40	40	40	50
+38	Nidorino	33	Poison	False	300	61	72	57	55	55	65
+39	Nidoking	34	Poison	False	420	81	102	77	85	75	85
+40	Clefairy	35	Fairy	False	288	70	45	48	60	65	35
+41	Clefable	36	Fairy	False	423	95	70	73	95	90	60
+42	Vulpix	37	Fire	False	234	38	41	40	50	65	65
+43	Ninetales	38	Fire	False	405	73	76	75	81	100	100
+44	Jigglypuff	39	Normal	False	250	115	45	20	45	25	20
+45	Wigglytuff	40	Normal	False	390	140	70	45	85	50	45
+46	Zubat	41	Poison	False	190	40	45	35	30	40	55
+47	Golbat	42	Poison	False	365	75	80	70	65	75	90
+48	Oddish	43	Grass	False	290	45	50	55	75	65	30
+49	Gloom	44	Grass	False	355	60	65	70	85	75	40
+50	Vileplume	45	Grass	False	440	75	80	85	110	90	50
+51	Paras	46	Bug	False	260	35	70	55	45	55	25
+52	Parasect	47	Bug	False	375	60	95	80	60	80	30
+53	Venonat	48	Bug	False	260	60	55	50	40	55	45
+54	Venomoth	49	Bug	False	360	70	65	60	90	75	90
+55	Diglett	50	Ground	False	170	10	55	25	35	45	95
+56	Dugtrio	51	Ground	False	285	35	80	50	50	70	120
+57	Meowth	52	Normal	False	200	40	45	35	40	40	90
+58	Persian	53	Normal	False	325	65	70	60	65	65	115
+59	Psyduck	54	Water	False	265	50	52	48	65	50	55
+60	Golduck	55	Water	False	415	80	82	78	95	80	85
+61	Mankey	56	Fighting	False	235	40	80	35	35	45	70
+62	Primeape	57	Fighting	False	360	65	105	60	60	70	95
+63	Growlithe	58	Fire	False	290	55	70	45	70	50	60
+64	Arcanine	59	Fire	False	460	90	110	80	100	80	95
+65	Poliwag	60	Water	False	210	40	50	40	40	40	90
+66	Poliwhirl	61	Water	False	295	65	65	65	50	50	90
+67	Poliwrath	62	Water	False	440	90	95	95	70	90	70
+68	Abra	63	Psychic	False	220	25	20	15	105	55	90
+69	Kadabra	64	Psychic	False	295	40	35	30	120	70	105
+70	Alakazam	65	Psychic	False	380	55	50	45	135	95	120
+71	AlakazamMega Alakazam	65	Psychic	False	440	55	50	65	175	95	150
+72	Machop	66	Fighting	False	270	70	80	50	35	35	35
+73	Machoke	67	Fighting	False	360	80	100	70	50	60	45
+74	Machamp	68	Fighting	False	450	90	130	80	65	85	55
+75	Bellsprout	69	Grass	False	260	50	75	35	70	30	40
+76	Weepinbell	70	Grass	False	335	65	90	50	85	45	55
+77	Victreebel	71	Grass	False	420	80	105	65	100	70	70
+78	Tentacool	72	Water	False	265	40	40	35	50	100	70
+79	Tentacruel	73	Water	False	415	80	70	65	80	120	100
+80	Geodude	74	Rock	False	280	40	80	100	30	30	20
+81	Graveler	75	Rock	False	355	55	95	115	45	45	35
+82	Golem	76	Rock	False	450	80	120	130	55	65	45
+83	Ponyta	77	Fire	False	320	50	85	55	65	65	90
+84	Rapidash	78	Fire	False	395	65	100	70	80	80	105
+85	Slowpoke	79	Water	False	300	90	65	65	40	40	15
+86	Slowbro	80	Water	False	460	95	75	110	100	80	30
+87	SlowbroMega Slowbro	80	Water	False	560	95	75	180	130	80	30
+88	Magnemite	81	Electric	False	280	25	35	70	95	55	45
+89	Magneton	82	Electric	False	395	50	60	95	120	70	70
+90	Farfetch'd	83	Normal	False	292	52	65	55	58	62	60
+91	Doduo	84	Normal	False	235	35	85	45	35	35	75
+92	Dodrio	85	Normal	False	360	60	110	70	60	60	100
+93	Seel	86	Water	False	280	65	45	55	45	70	45
+94	Dewgong	87	Water	False	405	90	70	80	70	95	70
+95	Grimer	88	Poison	False	300	80	80	50	40	50	25
+96	Muk	89	Poison	False	450	105	105	75	65	100	50
+97	Shellder	90	Water	False	265	30	65	100	45	25	40
+98	Cloyster	91	Water	False	455	50	95	180	85	45	70
+99	Gastly	92	Ghost	False	230	30	35	30	100	35	80
+100	Haunter	93	Ghost	False	310	45	50	45	115	55	95
+101	Gengar	94	Ghost	False	390	60	65	60	130	75	110
+102	GengarMega Gengar	94	Ghost	False	470	60	65	80	170	95	130
+103	Onix	95	Rock	False	315	35	45	160	30	45	70
+104	Drowzee	96	Psychic	False	286	60	48	45	43	90	42
+105	Hypno	97	Psychic	False	416	85	73	70	73	115	67
+106	Krabby	98	Water	False	275	30	105	90	25	25	50
+107	Kingler	99	Water	False	400	55	130	115	50	50	75
+108	Voltorb	100	Electric	False	230	40	30	50	55	55	100
+109	Electrode	101	Electric	False	340	60	50	70	80	80	140
+110	Exeggcute	102	Grass	False	285	60	40	80	60	45	40
+111	Exeggutor	103	Grass	False	465	95	95	85	125	65	55
+112	Cubone	104	Ground	False	285	50	50	95	40	50	35
+113	Marowak	105	Ground	False	380	60	80	110	50	80	45
+114	Hitmonlee	106	Fighting	False	368	50	120	53	35	110	87
+115	Hitmonchan	107	Fighting	False	379	50	105	79	35	110	76
+116	Lickitung	108	Normal	False	355	90	55	75	60	75	30
+117	Koffing	109	Poison	False	305	40	65	95	60	45	35
+118	Weezing	110	Poison	False	430	65	90	120	85	70	60
+119	Rhyhorn	111	Ground	False	320	80	85	95	30	30	25
+120	Rhydon	112	Ground	False	445	105	130	120	45	45	40
+121	Chansey	113	Normal	False	400	250	5	5	35	105	50
+122	Tangela	114	Grass	False	375	65	55	115	100	40	60
+123	Kangaskhan	115	Normal	False	400	105	95	80	40	80	90
+124	KangaskhanMega Kangaskhan	115	Normal	False	490	105	125	100	60	100	100
+125	Horsea	116	Water	False	235	30	40	70	70	25	60
+126	Seadra	117	Water	False	355	55	65	95	95	45	85
+127	Goldeen	118	Water	False	257	45	67	60	35	50	63
+128	Seaking	119	Water	False	382	80	92	65	65	80	68
+129	Staryu	120	Water	False	255	30	45	55	70	55	85
+130	Starmie	121	Water	False	405	60	75	85	100	85	115
+131	Mr. Mime	122	Psychic	False	370	40	45	65	100	120	90
+132	Scyther	123	Bug	False	395	70	110	80	55	80	105
+133	Jynx	124	Ice	False	360	65	50	35	115	95	95
+134	Electabuzz	125	Electric	False	385	65	83	57	95	85	105
+135	Magmar	126	Fire	False	402	65	95	57	100	85	93
+136	Pinsir	127	Bug	False	415	65	125	100	55	70	85
+137	PinsirMega Pinsir	127	Bug	False	495	65	155	120	65	90	105
+138	Tauros	128	Normal	False	380	75	100	95	40	70	110
+139	Magikarp	129	Water	False	120	20	10	55	15	20	80
+140	Gyarados	130	Water	False	459	95	125	79	60	100	81
+141	GyaradosMega Gyarados	130	Water	False	559	95	155	109	70	130	81
+142	Lapras	131	Water	False	475	130	85	80	85	95	60
+143	Ditto	132	Normal	False	240	48	48	48	48	48	48
+144	Eevee	133	Normal	False	270	55	55	50	45	65	55
+145	Vaporeon	134	Water	False	460	130	65	60	110	95	65
+146	Jolteon	135	Electric	False	395	65	65	60	110	95	130
+147	Flareon	136	Fire	False	460	65	130	60	95	110	65
+148	Porygon	137	Normal	False	355	65	60	70	85	75	40
+149	Omanyte	138	Rock	False	320	35	40	100	90	55	35
+150	Omastar	139	Rock	False	440	70	60	125	115	70	55
+151	Kabuto	140	Rock	False	300	30	80	90	55	45	55
+152	Kabutops	141	Rock	False	415	60	115	105	65	70	80
+153	Aerodactyl	142	Rock	False	385	80	105	65	60	75	130
+154	AerodactylMega Aerodactyl	142	Rock	False	465	80	135	85	70	95	150
+155	Snorlax	143	Normal	False	510	160	110	65	65	110	30
+156	Articuno	144	Ice	True	495	90	85	100	95	125	85
+157	Zapdos	145	Electric	True	480	90	90	85	125	90	100
+158	Moltres	146	Fire	True	490	90	100	90	125	85	90
+159	Dratini	147	Dragon	False	250	41	64	45	50	50	50
+160	Dragonair	148	Dragon	False	350	61	84	65	70	70	70
+161	Dragonite	149	Dragon	False	520	91	134	95	100	100	80
+162	Mewtwo	150	Psychic	True	550	106	110	90	154	90	130
+163	MewtwoMega Mewtwo X	150	Psychic	True	650	106	190	100	154	100	130
+164	MewtwoMega Mewtwo Y	150	Psychic	True	640	106	150	70	194	120	140
+165	Mew	151	Psychic	False	500	100	100	100	100	100	100
+166	Chikorita	152	Grass	False	273	45	49	65	49	65	45
+167	Bayleef	153	Grass	False	345	60	62	80	63	80	60
+168	Meganium	154	Grass	False	445	80	82	100	83	100	80
+169	Cyndaquil	155	Fire	False	244	39	52	43	60	50	65
+170	Quilava	156	Fire	False	325	58	64	58	80	65	80
+171	Typhlosion	157	Fire	False	434	78	84	78	109	85	100
+172	Totodile	158	Water	False	271	50	65	64	44	48	43
+173	Croconaw	159	Water	False	347	65	80	80	59	63	58
+174	Feraligatr	160	Water	False	452	85	105	100	79	83	78
+175	Sentret	161	Normal	False	195	35	46	34	35	45	20
+176	Furret	162	Normal	False	325	85	76	64	45	55	90
+177	Hoothoot	163	Normal	False	212	60	30	30	36	56	50
+178	Noctowl	164	Normal	False	372	100	50	50	76	96	70
+179	Ledyba	165	Bug	False	210	40	20	30	40	80	55
+180	Ledian	166	Bug	False	305	55	35	50	55	110	85
+181	Spinarak	167	Bug	False	220	40	60	40	40	40	30
+182	Ariados	168	Bug	False	350	70	90	70	60	60	40
+183	Crobat	169	Poison	False	405	85	90	80	70	80	130
+184	Chinchou	170	Water	False	263	75	38	38	56	56	67
+185	Lanturn	171	Water	False	393	125	58	58	76	76	67
+186	Pichu	172	Electric	False	145	20	40	15	35	35	60
+187	Cleffa	173	Fairy	False	203	50	25	28	45	55	15
+188	Igglybuff	174	Normal	False	195	90	30	15	40	20	15
+189	Togepi	175	Fairy	False	225	35	20	65	40	65	20
+190	Togetic	176	Fairy	False	365	55	40	85	80	105	40
+191	Natu	177	Psychic	False	250	40	50	45	70	45	70
+192	Xatu	178	Psychic	False	375	65	75	70	95	70	95
+193	Mareep	179	Electric	False	245	55	40	40	65	45	35
+194	Flaaffy	180	Electric	False	320	70	55	55	80	60	45
+195	Ampharos	181	Electric	False	455	90	75	85	115	90	55
+196	AmpharosMega Ampharos	181	Electric	False	565	90	95	105	165	110	45
+197	Bellossom	182	Grass	False	440	75	80	95	90	100	50
+198	Marill	183	Water	False	210	70	20	50	20	50	40
+199	Azumarill	184	Water	False	370	100	50	80	60	80	50
+200	Sudowoodo	185	Rock	False	380	70	100	115	30	65	30
+201	Politoed	186	Water	False	430	90	75	75	90	100	70
+202	Hoppip	187	Grass	False	200	35	35	40	35	55	50
+203	Skiploom	188	Grass	False	260	55	45	50	45	65	80
+204	Jumpluff	189	Grass	False	350	75	55	70	55	95	110
+205	Aipom	190	Normal	False	275	55	70	55	40	55	85
+206	Sunkern	191	Grass	False	150	30	30	30	30	30	30
+207	Sunflora	192	Grass	False	395	75	75	55	105	85	30
+208	Yanma	193	Bug	False	295	65	65	45	75	45	95
+209	Wooper	194	Water	False	195	55	45	45	25	25	15
+210	Quagsire	195	Water	False	395	95	85	85	65	65	35
+211	Espeon	196	Psychic	False	415	65	65	60	130	95	110
+212	Umbreon	197	Dark	False	460	95	65	110	60	130	65
+213	Murkrow	198	Dark	False	314	60	85	42	85	42	91
+214	Slowking	199	Water	False	460	95	75	80	100	110	30
+215	Misdreavus	200	Ghost	False	350	60	60	60	85	85	85
+216	Unown	201	Psychic	False	288	48	72	48	72	48	48
+217	Wobbuffet	202	Psychic	False	372	190	33	58	33	58	33
+218	Girafarig	203	Normal	False	370	70	80	65	90	65	85
+219	Pineco	204	Bug	False	275	50	65	90	35	35	15
+220	Forretress	205	Bug	False	425	75	90	140	60	60	40
+221	Dunsparce	206	Normal	False	370	100	70	70	65	65	45
+222	Gligar	207	Ground	False	345	65	75	105	35	65	85
+223	Steelix	208	Steel	False	480	75	85	200	55	65	30
+224	SteelixMega Steelix	208	Steel	False	580	75	125	230	55	95	30
+225	Snubbull	209	Fairy	False	270	60	80	50	40	40	30
+226	Granbull	210	Fairy	False	405	90	120	75	60	60	45
+227	Qwilfish	211	Water	False	345	65	95	75	55	55	85
+228	Scizor	212	Bug	False	435	70	130	100	55	80	65
+229	ScizorMega Scizor	212	Bug	False	525	70	150	140	65	100	75
+230	Shuckle	213	Bug	False	500	20	10	230	10	230	5
+231	Heracross	214	Bug	False	415	80	125	75	40	95	85
+232	HeracrossMega Heracross	214	Bug	False	525	80	185	115	40	105	75
+233	Sneasel	215	Dark	False	315	55	95	55	35	75	115
+234	Teddiursa	216	Normal	False	290	60	80	50	50	50	40
+235	Ursaring	217	Normal	False	445	90	130	75	75	75	55
+236	Slugma	218	Fire	False	230	40	40	40	70	40	20
+237	Magcargo	219	Fire	False	380	50	50	120	80	80	30
+238	Swinub	220	Ice	False	200	50	50	40	30	30	50
+239	Piloswine	221	Ice	False	400	100	100	80	60	60	50
+240	Corsola	222	Water	False	345	55	55	85	65	85	35
+241	Remoraid	223	Water	False	235	35	65	35	65	35	65
+242	Octillery	224	Water	False	435	75	105	75	105	75	45
+243	Delibird	225	Ice	False	255	45	55	45	65	45	75
+244	Mantine	226	Water	False	395	65	40	70	80	140	70
+245	Skarmory	227	Steel	False	395	65	80	140	40	70	70
+246	Houndour	228	Dark	False	265	45	60	30	80	50	65
+247	Houndoom	229	Dark	False	405	75	90	50	110	80	95
+248	HoundoomMega Houndoom	229	Dark	False	485	75	90	90	140	90	115
+249	Kingdra	230	Water	False	455	75	95	95	95	95	85
+250	Phanpy	231	Ground	False	290	90	60	60	40	40	40
+251	Donphan	232	Ground	False	450	90	120	120	60	60	50
+252	Porygon2	233	Normal	False	455	85	80	90	105	95	60
+253	Stantler	234	Normal	False	380	73	95	62	85	65	85
+254	Smeargle	235	Normal	False	175	55	20	35	20	45	75
+255	Tyrogue	236	Fighting	False	175	35	35	35	35	35	35
+256	Hitmontop	237	Fighting	False	385	50	95	95	35	110	70
+257	Smoochum	238	Ice	False	240	45	30	15	85	65	65
+258	Elekid	239	Electric	False	265	45	63	37	65	55	95
+259	Magby	240	Fire	False	282	45	75	37	70	55	83
+260	Miltank	241	Normal	False	390	95	80	105	40	70	100
+261	Blissey	242	Normal	False	485	255	10	10	75	135	55
+262	Raikou	243	Electric	True	465	90	85	75	115	100	115
+263	Entei	244	Fire	True	480	115	115	85	90	75	100
+264	Suicune	245	Water	True	495	100	75	115	90	115	85
+265	Larvitar	246	Rock	False	259	50	64	50	45	50	41
+266	Pupitar	247	Rock	False	359	70	84	70	65	70	51
+267	Tyranitar	248	Rock	False	539	100	134	110	95	100	61
+268	TyranitarMega Tyranitar	248	Rock	False	629	100	164	150	95	120	71
+269	Lugia	249	Psychic	True	570	106	90	130	90	154	110
+270	Ho-oh	250	Fire	True	590	106	130	90	110	154	90
+271	Celebi	251	Psychic	False	500	100	100	100	100	100	100
+272	Treecko	252	Grass	False	240	40	45	35	65	55	70
+273	Grovyle	253	Grass	False	310	50	65	45	85	65	95
+274	Sceptile	254	Grass	False	410	70	85	65	105	85	120
+275	SceptileMega Sceptile	254	Grass	False	485	70	110	75	145	85	145
+276	Torchic	255	Fire	False	265	45	60	40	70	50	45
+277	Combusken	256	Fire	False	350	60	85	60	85	60	55
+278	Blaziken	257	Fire	False	450	80	120	70	110	70	80
+279	BlazikenMega Blaziken	257	Fire	False	530	80	160	80	130	80	100
+280	Mudkip	258	Water	False	270	50	70	50	50	50	40
+281	Marshtomp	259	Water	False	355	70	85	70	60	70	50
+282	Swampert	260	Water	False	475	100	110	90	85	90	60
+283	SwampertMega Swampert	260	Water	False	565	100	150	110	95	110	70
+284	Poochyena	261	Dark	False	185	35	55	35	30	30	35
+285	Mightyena	262	Dark	False	350	70	90	70	60	60	70
+286	Zigzagoon	263	Normal	False	180	38	30	41	30	41	60
+287	Linoone	264	Normal	False	320	78	70	61	50	61	100
+288	Wurmple	265	Bug	False	175	45	45	35	20	30	20
+289	Silcoon	266	Bug	False	190	50	35	55	25	25	15
+290	Beautifly	267	Bug	False	330	60	70	50	100	50	65
+291	Cascoon	268	Bug	False	190	50	35	55	25	25	15
+292	Dustox	269	Bug	False	320	60	50	70	50	90	65
+293	Lotad	270	Water	False	190	40	30	30	40	50	30
+294	Lombre	271	Water	False	290	60	50	50	60	70	50
+295	Ludicolo	272	Water	False	410	80	70	70	90	100	70
+296	Seedot	273	Grass	False	190	40	40	50	30	30	30
+297	Nuzleaf	274	Grass	False	280	70	70	40	60	40	60
+298	Shiftry	275	Grass	False	400	90	100	60	90	60	80
+299	Taillow	276	Normal	False	185	40	55	30	30	30	85
+300	Swellow	277	Normal	False	305	60	85	60	50	50	125
+301	Wingull	278	Water	False	185	40	30	30	55	30	85
+302	Pelipper	279	Water	False	365	60	50	100	85	70	65
+303	Ralts	280	Psychic	False	158	28	25	25	45	35	40
+304	Kirlia	281	Psychic	False	228	38	35	35	65	55	50
+305	Gardevoir	282	Psychic	False	438	68	65	65	125	115	80
+306	GardevoirMega Gardevoir	282	Psychic	False	518	68	85	65	165	135	100
+307	Surskit	283	Bug	False	204	40	30	32	50	52	65
+308	Masquerain	284	Bug	False	354	70	60	62	80	82	60
+309	Shroomish	285	Grass	False	260	60	40	60	40	60	35
+310	Breloom	286	Grass	False	390	60	130	80	60	60	70
+311	Slakoth	287	Normal	False	250	60	60	60	35	35	30
+312	Vigoroth	288	Normal	False	350	80	80	80	55	55	90
+313	Slaking	289	Normal	False	570	150	160	100	95	65	100
+314	Nincada	290	Bug	False	226	31	45	90	30	30	40
+315	Ninjask	291	Bug	False	296	61	90	45	50	50	160
+316	Shedinja	292	Bug	False	196	1	90	45	30	30	40
+317	Whismur	293	Normal	False	212	64	51	23	51	23	28
+318	Loudred	294	Normal	False	312	84	71	43	71	43	48
+319	Exploud	295	Normal	False	422	104	91	63	91	73	68
+320	Makuhita	296	Fighting	False	212	72	60	30	20	30	25
+321	Hariyama	297	Fighting	False	424	144	120	60	40	60	50
+322	Azurill	298	Normal	False	170	50	20	40	20	40	20
+323	Nosepass	299	Rock	False	345	30	45	135	45	90	30
+324	Skitty	300	Normal	False	210	50	45	45	35	35	50
+325	Delcatty	301	Normal	False	310	70	65	65	55	55	70
+326	Sableye	302	Dark	False	330	50	75	75	65	65	50
+327	SableyeMega Sableye	302	Dark	False	460	50	85	125	85	115	20
+328	Mawile	303	Steel	False	330	50	85	85	55	55	50
+329	MawileMega Mawile	303	Steel	False	430	50	105	125	55	95	50
+330	Aron	304	Steel	False	300	50	70	100	40	40	30
+331	Lairon	305	Steel	False	390	60	90	140	50	50	40
+332	Aggron	306	Steel	False	480	70	110	180	60	60	50
+333	AggronMega Aggron	306	Steel	False	580	70	140	230	60	80	50
+334	Meditite	307	Fighting	False	220	30	40	55	40	55	60
+335	Medicham	308	Fighting	False	330	60	60	75	60	75	80
+336	MedichamMega Medicham	308	Fighting	False	410	60	100	85	80	85	100
+337	Electrike	309	Electric	False	230	40	45	40	65	40	65
+338	Manectric	310	Electric	False	370	70	75	60	105	60	105
+339	ManectricMega Manectric	310	Electric	False	440	70	75	80	135	80	135
+340	Plusle	311	Electric	False	310	60	50	40	85	75	95
+341	Minun	312	Electric	False	310	60	40	50	75	85	95
+342	Volbeat	313	Bug	False	315	65	73	55	47	75	85
+343	Illumise	314	Bug	False	315	65	47	55	73	75	85
+344	Roselia	315	Grass	False	335	50	60	45	100	80	65
+345	Gulpin	316	Poison	False	262	70	43	53	43	53	40
+346	Swalot	317	Poison	False	412	100	73	83	73	83	55
+347	Carvanha	318	Water	False	240	45	90	20	65	20	65
+348	Sharpedo	319	Water	False	365	70	120	40	95	40	95
+349	SharpedoMega Sharpedo	319	Water	False	455	70	140	70	110	65	105
+350	Wailmer	320	Water	False	340	130	70	35	70	35	60
+351	Wailord	321	Water	False	440	170	90	45	90	45	60
+352	Numel	322	Fire	False	270	60	60	40	65	45	35
+353	Camerupt	323	Fire	False	420	70	100	70	105	75	40
+354	CameruptMega Camerupt	323	Fire	False	540	70	120	100	145	105	20
+355	Torkoal	324	Fire	False	450	70	85	140	85	70	20
+356	Spoink	325	Psychic	False	270	60	25	35	70	80	60
+357	Grumpig	326	Psychic	False	390	80	45	65	90	110	80
+358	Spinda	327	Normal	False	300	60	60	60	60	60	60
+359	Trapinch	328	Ground	False	280	45	100	45	45	45	10
+360	Vibrava	329	Ground	False	270	50	70	50	50	50	70
+361	Flygon	330	Ground	False	420	80	100	80	80	80	100
+362	Cacnea	331	Grass	False	300	50	85	40	85	40	35
+363	Cacturne	332	Grass	False	420	70	115	60	115	60	55
+364	Swablu	333	Normal	False	260	45	40	60	40	75	50
+365	Altaria	334	Dragon	False	410	75	70	90	70	105	80
+366	AltariaMega Altaria	334	Dragon	False	510	75	110	110	110	105	80
+367	Zangoose	335	Normal	False	368	73	115	60	60	60	90
+368	Seviper	336	Poison	False	393	73	100	60	100	60	65
+369	Lunatone	337	Rock	False	370	70	55	65	95	85	70
+370	Solrock	338	Rock	False	370	70	95	85	55	65	70
+371	Barboach	339	Water	False	228	50	48	43	46	41	60
+372	Whiscash	340	Water	False	408	110	78	73	76	71	60
+373	Corphish	341	Water	False	273	43	80	65	50	35	35
+374	Crawdaunt	342	Water	False	413	63	120	85	90	55	55
+375	Baltoy	343	Ground	False	245	40	40	55	40	70	55
+376	Claydol	344	Ground	False	425	60	70	105	70	120	75
+377	Lileep	345	Rock	False	332	66	41	77	61	87	23
+378	Cradily	346	Rock	False	452	86	81	97	81	107	43
+379	Anorith	347	Rock	False	280	45	95	50	40	50	75
+380	Armaldo	348	Rock	False	450	75	125	100	70	80	45
+381	Feebas	349	Water	False	120	20	15	20	10	55	80
+382	Milotic	350	Water	False	459	95	60	79	100	125	81
+383	Castform	351	Normal	False	350	70	70	70	70	70	70
+384	Kecleon	352	Normal	False	400	60	90	70	60	120	40
+385	Shuppet	353	Ghost	False	250	44	75	35	63	33	45
+386	Banette	354	Ghost	False	390	64	115	65	83	63	65
+387	BanetteMega Banette	354	Ghost	False	480	64	165	75	93	83	75
+388	Duskull	355	Ghost	False	270	20	40	90	30	90	25
+389	Dusclops	356	Ghost	False	430	40	70	130	60	130	25
+390	Tropius	357	Grass	False	409	99	68	83	72	87	51
+391	Chimecho	358	Psychic	False	360	65	50	70	95	80	65
+392	Absol	359	Dark	False	390	65	130	60	75	60	75
+393	AbsolMega Absol	359	Dark	False	450	65	150	60	115	60	115
+394	Wynaut	360	Psychic	False	237	95	23	48	23	48	23
+395	Snorunt	361	Ice	False	250	50	50	50	50	50	50
+396	Glalie	362	Ice	False	400	80	80	80	80	80	80
+397	GlalieMega Glalie	362	Ice	False	480	80	120	80	120	80	100
+398	Spheal	363	Ice	False	265	70	40	50	55	50	25
+399	Sealeo	364	Ice	False	365	90	60	70	75	70	45
+400	Walrein	365	Ice	False	465	110	80	90	95	90	65
+401	Clamperl	366	Water	False	313	35	64	85	74	55	32
+402	Huntail	367	Water	False	433	55	104	105	94	75	52
+403	Gorebyss	368	Water	False	433	55	84	105	114	75	52
+404	Relicanth	369	Water	False	430	100	90	130	45	65	55
+405	Luvdisc	370	Water	False	233	43	30	55	40	65	97
+406	Bagon	371	Dragon	False	250	45	75	60	40	30	50
+407	Shelgon	372	Dragon	False	370	65	95	100	60	50	50
+408	Salamence	373	Dragon	False	500	95	135	80	110	80	100
+409	SalamenceMega Salamence	373	Dragon	False	580	95	145	130	120	90	120
+410	Beldum	374	Steel	False	270	40	55	80	35	60	30
+411	Metang	375	Steel	False	370	60	75	100	55	80	50
+412	Metagross	376	Steel	False	530	80	135	130	95	90	70
+413	MetagrossMega Metagross	376	Steel	False	590	80	145	150	105	110	110
+414	Regirock	377	Rock	True	530	80	100	200	50	100	50
+415	Regice	378	Ice	True	530	80	50	100	100	200	50
+416	Registeel	379	Steel	True	530	80	75	150	75	150	50
+417	Latias	380	Dragon	True	490	80	80	90	110	130	110
+418	LatiasMega Latias	380	Dragon	True	590	80	100	120	140	150	110
+419	Latios	381	Dragon	True	490	80	90	80	130	110	110
+420	LatiosMega Latios	381	Dragon	True	590	80	130	100	160	120	110
+421	Kyogre	382	Water	True	580	100	100	90	150	140	90
+422	KyogrePrimal Kyogre	382	Water	True	680	100	150	90	180	160	90
+423	Groudon	383	Ground	True	580	100	150	140	100	90	90
+424	GroudonPrimal Groudon	383	Ground	True	680	100	180	160	150	90	90
+425	Rayquaza	384	Dragon	True	585	105	150	90	150	90	95
+426	RayquazaMega Rayquaza	384	Dragon	True	665	105	180	100	180	100	115
+427	Jirachi	385	Steel	True	500	100	100	100	100	100	100
+428	DeoxysNormal Forme	386	Psychic	True	450	50	150	50	150	50	150
+429	DeoxysAttack Forme	386	Psychic	True	450	50	180	20	180	20	150
+430	DeoxysDefense Forme	386	Psychic	True	510	50	70	160	70	160	90
+431	DeoxysSpeed Forme	386	Psychic	True	420	50	95	90	95	90	180
+432	Turtwig	387	Grass	False	287	55	68	64	45	55	31
+433	Grotle	388	Grass	False	369	75	89	85	55	65	36
+434	Torterra	389	Grass	False	469	95	109	105	75	85	56
+435	Chimchar	390	Fire	False	248	44	58	44	58	44	61
+436	Monferno	391	Fire	False	324	64	78	52	78	52	81
+437	Infernape	392	Fire	False	426	76	104	71	104	71	108
+438	Piplup	393	Water	False	274	53	51	53	61	56	40
+439	Prinplup	394	Water	False	355	64	66	68	81	76	50
+440	Empoleon	395	Water	False	470	84	86	88	111	101	60
+441	Starly	396	Normal	False	185	40	55	30	30	30	60
+442	Staravia	397	Normal	False	260	55	75	50	40	40	80
+443	Staraptor	398	Normal	False	385	85	120	70	50	60	100
+444	Bidoof	399	Normal	False	219	59	45	40	35	40	31
+445	Bibarel	400	Normal	False	339	79	85	60	55	60	71
+446	Kricketot	401	Bug	False	169	37	25	41	25	41	25
+447	Kricketune	402	Bug	False	319	77	85	51	55	51	65
+448	Shinx	403	Electric	False	218	45	65	34	40	34	45
+449	Luxio	404	Electric	False	303	60	85	49	60	49	60
+450	Luxray	405	Electric	False	453	80	120	79	95	79	70
+451	Budew	406	Grass	False	225	40	30	35	50	70	55
+452	Roserade	407	Grass	False	425	60	70	65	125	105	90
+453	Cranidos	408	Rock	False	292	67	125	40	30	30	58
+454	Rampardos	409	Rock	False	437	97	165	60	65	50	58
+455	Shieldon	410	Rock	False	320	30	42	118	42	88	30
+456	Bastiodon	411	Rock	False	465	60	52	168	47	138	30
+457	Burmy	412	Bug	False	188	40	29	45	29	45	36
+458	WormadamPlant Cloak	413	Bug	False	388	60	59	85	79	105	36
+459	WormadamSandy Cloak	413	Bug	False	388	60	79	105	59	85	36
+460	WormadamTrash Cloak	413	Bug	False	388	60	69	95	69	95	36
+461	Mothim	414	Bug	False	358	70	94	50	94	50	66
+462	Combee	415	Bug	False	174	30	30	42	30	42	70
+463	Vespiquen	416	Bug	False	434	70	80	102	80	102	40
+464	Pachirisu	417	Electric	False	310	60	45	70	45	90	95
+465	Buizel	418	Water	False	245	55	65	35	60	30	85
+466	Floatzel	419	Water	False	380	85	105	55	85	50	115
+467	Cherubi	420	Grass	False	240	45	35	45	62	53	35
+468	Cherrim	421	Grass	False	365	70	60	70	87	78	85
+469	Shellos	422	Water	False	291	76	48	48	57	62	34
+470	Gastrodon	423	Water	False	436	111	83	68	92	82	39
+471	Ambipom	424	Normal	False	367	75	100	66	60	66	115
+472	Drifloon	425	Ghost	False	278	90	50	34	60	44	70
+473	Drifblim	426	Ghost	False	418	150	80	44	90	54	80
+474	Buneary	427	Normal	False	265	55	66	44	44	56	85
+475	Lopunny	428	Normal	False	375	65	76	84	54	96	105
+476	LopunnyMega Lopunny	428	Normal	False	445	65	136	94	54	96	135
+477	Mismagius	429	Ghost	False	390	60	60	60	105	105	105
+478	Honchkrow	430	Dark	False	434	100	125	52	105	52	71
+479	Glameow	431	Normal	False	225	49	55	42	42	37	85
+480	Purugly	432	Normal	False	340	71	82	64	64	59	112
+481	Chingling	433	Psychic	False	240	45	30	50	65	50	45
+482	Stunky	434	Poison	False	255	63	63	47	41	41	74
+483	Skuntank	435	Poison	False	395	103	93	67	71	61	84
+484	Bronzor	436	Steel	False	277	57	24	86	24	86	23
+485	Bronzong	437	Steel	False	467	67	89	116	79	116	33
+486	Bonsly	438	Rock	False	280	50	80	95	10	45	10
+487	Mime Jr.	439	Psychic	False	250	20	25	45	70	90	60
+488	Happiny	440	Normal	False	190	100	5	5	15	65	30
+489	Chatot	441	Normal	False	320	76	65	45	92	42	91
+490	Spiritomb	442	Ghost	False	450	50	92	108	92	108	35
+491	Gible	443	Dragon	False	258	58	70	45	40	45	42
+492	Gabite	444	Dragon	False	328	68	90	65	50	55	82
+493	Garchomp	445	Dragon	False	498	108	130	95	80	85	102
+494	GarchompMega Garchomp	445	Dragon	False	608	108	170	115	120	95	92
+495	Munchlax	446	Normal	False	385	135	85	40	40	85	5
+496	Riolu	447	Fighting	False	225	40	70	40	35	40	60
+497	Lucario	448	Fighting	False	435	70	110	70	115	70	90
+498	LucarioMega Lucario	448	Fighting	False	513	70	145	88	140	70	112
+499	Hippopotas	449	Ground	False	298	68	72	78	38	42	32
+500	Hippowdon	450	Ground	False	478	108	112	118	68	72	47
+501	Skorupi	451	Poison	False	265	40	50	90	30	55	65
+502	Drapion	452	Poison	False	405	70	90	110	60	75	95
+503	Croagunk	453	Poison	False	250	48	61	40	61	40	50
+504	Toxicroak	454	Poison	False	405	83	106	65	86	65	85
+505	Carnivine	455	Grass	False	408	74	100	72	90	72	46
+506	Finneon	456	Water	False	264	49	49	56	49	61	66
+507	Lumineon	457	Water	False	369	69	69	76	69	86	91
+508	Mantyke	458	Water	False	295	45	20	50	60	120	50
+509	Snover	459	Grass	False	294	60	62	50	62	60	40
+510	Abomasnow	460	Grass	False	434	90	92	75	92	85	60
+511	AbomasnowMega Abomasnow	460	Grass	False	564	90	132	105	132	105	30
+512	Weavile	461	Dark	False	385	70	120	65	45	85	125
+513	Magnezone	462	Electric	False	475	70	70	115	130	90	60
+514	Lickilicky	463	Normal	False	465	110	85	95	80	95	50
+515	Rhyperior	464	Ground	False	495	115	140	130	55	55	40
+516	Tangrowth	465	Grass	False	485	100	100	125	110	50	50
+517	Electivire	466	Electric	False	445	75	123	67	95	85	95
+518	Magmortar	467	Fire	False	457	75	95	67	125	95	83
+519	Togekiss	468	Fairy	False	465	85	50	95	120	115	80
+520	Yanmega	469	Bug	False	420	86	76	86	116	56	95
+521	Leafeon	470	Grass	False	430	65	110	130	60	65	95
+522	Glaceon	471	Ice	False	460	65	60	110	130	95	65
+523	Gliscor	472	Ground	False	415	75	95	125	45	75	95
+524	Mamoswine	473	Ice	False	450	110	130	80	70	60	80
+525	Porygon-Z	474	Normal	False	445	85	80	70	135	75	90
+526	Gallade	475	Psychic	False	438	68	125	65	65	115	80
+527	GalladeMega Gallade	475	Psychic	False	508	68	165	95	65	115	110
+528	Probopass	476	Rock	False	485	60	55	145	75	150	40
+529	Dusknoir	477	Ghost	False	480	45	100	135	65	135	45
+530	Froslass	478	Ice	False	370	70	80	70	80	70	110
+531	Rotom	479	Electric	False	349	50	50	77	95	77	91
+532	RotomHeat Rotom	479	Electric	False	434	50	65	107	105	107	86
+533	RotomWash Rotom	479	Electric	False	434	50	65	107	105	107	86
+534	RotomFrost Rotom	479	Electric	False	434	50	65	107	105	107	86
+535	RotomFan Rotom	479	Electric	False	434	50	65	107	105	107	86
+536	RotomMow Rotom	479	Electric	False	434	50	65	107	105	107	86
+537	Uxie	480	Psychic	True	485	75	75	130	75	130	95
+538	Mesprit	481	Psychic	True	500	80	105	105	105	105	80
+539	Azelf	482	Psychic	True	465	75	125	70	125	70	115
+540	Dialga	483	Steel	True	590	100	120	120	150	100	90
+541	Palkia	484	Water	True	580	90	120	100	150	120	100
+542	Heatran	485	Fire	True	523	91	90	106	130	106	77
+543	Regigigas	486	Normal	True	570	110	160	110	80	110	100
+544	GiratinaAltered Forme	487	Ghost	True	590	150	100	120	100	120	90
+545	GiratinaOrigin Forme	487	Ghost	True	590	150	120	100	120	100	90
+546	Cresselia	488	Psychic	False	515	120	70	120	75	130	85
+547	Phione	489	Water	False	400	80	80	80	80	80	80
+548	Manaphy	490	Water	False	500	100	100	100	100	100	100
+549	Darkrai	491	Dark	True	475	70	90	90	135	90	125
+550	ShayminLand Forme	492	Grass	True	500	100	100	100	100	100	100
+551	ShayminSky Forme	492	Grass	True	473	100	103	75	120	75	127
+552	Arceus	493	Normal	True	600	120	120	120	120	120	120
+553	Victini	494	Psychic	True	500	100	100	100	100	100	100
+554	Snivy	495	Grass	False	245	45	45	55	45	55	63
+555	Servine	496	Grass	False	330	60	60	75	60	75	83
+556	Serperior	497	Grass	False	415	75	75	95	75	95	113
+557	Tepig	498	Fire	False	263	65	63	45	45	45	45
+558	Pignite	499	Fire	False	363	90	93	55	70	55	55
+559	Emboar	500	Fire	False	463	110	123	65	100	65	65
+560	Oshawott	501	Water	False	263	55	55	45	63	45	45
+561	Dewott	502	Water	False	353	75	75	60	83	60	60
+562	Samurott	503	Water	False	458	95	100	85	108	70	70
+563	Patrat	504	Normal	False	213	45	55	39	35	39	42
+564	Watchog	505	Normal	False	343	60	85	69	60	69	77
+565	Lillipup	506	Normal	False	220	45	60	45	25	45	55
+566	Herdier	507	Normal	False	310	65	80	65	35	65	60
+567	Stoutland	508	Normal	False	420	85	110	90	45	90	80
+568	Purrloin	509	Dark	False	215	41	50	37	50	37	66
+569	Liepard	510	Dark	False	340	64	88	50	88	50	106
+570	Pansage	511	Grass	False	252	50	53	48	53	48	64
+571	Simisage	512	Grass	False	397	75	98	63	98	63	101
+572	Pansear	513	Fire	False	252	50	53	48	53	48	64
+573	Simisear	514	Fire	False	397	75	98	63	98	63	101
+574	Panpour	515	Water	False	252	50	53	48	53	48	64
+575	Simipour	516	Water	False	397	75	98	63	98	63	101
+576	Munna	517	Psychic	False	268	76	25	45	67	55	24
+577	Musharna	518	Psychic	False	458	116	55	85	107	95	29
+578	Pidove	519	Normal	False	221	50	55	50	36	30	43
+579	Tranquill	520	Normal	False	293	62	77	62	50	42	65
+580	Unfezant	521	Normal	False	395	80	115	80	65	55	93
+581	Blitzle	522	Electric	False	219	45	60	32	50	32	76
+582	Zebstrika	523	Electric	False	381	75	100	63	80	63	116
+583	Roggenrola	524	Rock	False	265	55	75	85	25	25	15
+584	Boldore	525	Rock	False	370	70	105	105	50	40	20
+585	Gigalith	526	Rock	False	490	85	135	130	60	80	25
+586	Woobat	527	Psychic	False	241	55	45	43	55	43	72
+587	Swoobat	528	Psychic	False	311	67	57	55	77	55	114
+588	Drilbur	529	Ground	False	260	60	85	40	30	45	68
+589	Excadrill	530	Ground	False	420	110	135	60	50	65	88
+590	Audino	531	Normal	False	395	103	60	86	60	86	50
+591	AudinoMega Audino	531	Normal	False	495	103	60	126	80	126	50
+592	Timburr	532	Fighting	False	270	75	80	55	25	35	35
+593	Gurdurr	533	Fighting	False	365	85	105	85	40	50	40
+594	Conkeldurr	534	Fighting	False	460	105	140	95	55	65	45
+595	Tympole	535	Water	False	230	50	50	40	50	40	64
+596	Palpitoad	536	Water	False	315	75	65	55	65	55	69
+597	Seismitoad	537	Water	False	435	105	95	75	85	75	74
+598	Throh	538	Fighting	False	420	120	100	85	30	85	45
+599	Sawk	539	Fighting	False	380	75	125	75	30	75	85
+600	Sewaddle	540	Bug	False	268	45	53	70	40	60	42
+601	Swadloon	541	Bug	False	338	55	63	90	50	80	42
+602	Leavanny	542	Bug	False	408	75	103	80	70	80	92
+603	Venipede	543	Bug	False	203	30	45	59	30	39	57
+604	Whirlipede	544	Bug	False	313	40	55	99	40	79	47
+605	Scolipede	545	Bug	False	373	60	100	89	55	69	112
+606	Cottonee	546	Grass	False	214	40	27	60	37	50	66
+607	Whimsicott	547	Grass	False	364	60	67	85	77	75	116
+608	Petilil	548	Grass	False	250	45	35	50	70	50	30
+609	Lilligant	549	Grass	False	390	70	60	75	110	75	90
+610	Basculin	550	Water	False	362	70	92	65	80	55	98
+611	Sandile	551	Ground	False	227	50	72	35	35	35	65
+612	Krokorok	552	Ground	False	277	60	82	45	45	45	74
+613	Krookodile	553	Ground	False	427	95	117	80	65	70	92
+614	Darumaka	554	Fire	False	265	70	90	45	15	45	50
+615	DarmanitanStandard Mode	555	Fire	False	385	105	140	55	30	55	95
+616	DarmanitanZen Mode	555	Fire	False	485	105	30	105	140	105	55
+617	Maractus	556	Grass	False	401	75	86	67	106	67	60
+618	Dwebble	557	Bug	False	270	50	65	85	35	35	55
+619	Crustle	558	Bug	False	430	70	95	125	65	75	45
+620	Scraggy	559	Dark	False	300	50	75	70	35	70	48
+621	Scrafty	560	Dark	False	430	65	90	115	45	115	58
+622	Sigilyph	561	Psychic	False	393	72	58	80	103	80	97
+623	Yamask	562	Ghost	False	273	38	30	85	55	65	30
+624	Cofagrigus	563	Ghost	False	453	58	50	145	95	105	30
+625	Tirtouga	564	Water	False	333	54	78	103	53	45	22
+626	Carracosta	565	Water	False	463	74	108	133	83	65	32
+627	Archen	566	Rock	False	331	55	112	45	74	45	70
+628	Archeops	567	Rock	False	457	75	140	65	112	65	110
+629	Trubbish	568	Poison	False	264	50	50	62	40	62	65
+630	Garbodor	569	Poison	False	399	80	95	82	60	82	75
+631	Zorua	570	Dark	False	265	40	65	40	80	40	65
+632	Zoroark	571	Dark	False	405	60	105	60	120	60	105
+633	Minccino	572	Normal	False	225	55	50	40	40	40	75
+634	Cinccino	573	Normal	False	355	75	95	60	65	60	115
+635	Gothita	574	Psychic	False	245	45	30	50	55	65	45
+636	Gothorita	575	Psychic	False	335	60	45	70	75	85	55
+637	Gothitelle	576	Psychic	False	425	70	55	95	95	110	65
+638	Solosis	577	Psychic	False	270	45	30	40	105	50	20
+639	Duosion	578	Psychic	False	340	65	40	50	125	60	30
+640	Reuniclus	579	Psychic	False	460	110	65	75	125	85	30
+641	Ducklett	580	Water	False	250	62	44	50	44	50	55
+642	Swanna	581	Water	False	375	75	87	63	87	63	98
+643	Vanillite	582	Ice	False	261	36	50	50	65	60	44
+644	Vanillish	583	Ice	False	336	51	65	65	80	75	59
+645	Vanilluxe	584	Ice	False	456	71	95	85	110	95	79
+646	Deerling	585	Normal	False	260	60	60	50	40	50	75
+647	Sawsbuck	586	Normal	False	380	80	100	70	60	70	95
+648	Emolga	587	Electric	False	325	55	75	60	75	60	103
+649	Karrablast	588	Bug	False	255	50	75	45	40	45	60
+650	Escavalier	589	Bug	False	475	70	135	105	60	105	20
+651	Foongus	590	Grass	False	279	69	55	45	55	55	15
+652	Amoonguss	591	Grass	False	434	114	85	70	85	80	30
+653	Frillish	592	Water	False	295	55	40	50	65	85	40
+654	Jellicent	593	Water	False	420	100	60	70	85	105	60
+655	Alomomola	594	Water	False	405	165	75	80	40	45	65
+656	Joltik	595	Bug	False	254	50	47	50	57	50	65
+657	Galvantula	596	Bug	False	364	70	77	60	97	60	108
+658	Ferroseed	597	Grass	False	295	44	50	91	24	86	10
+659	Ferrothorn	598	Grass	False	469	74	94	131	54	116	20
+660	Klink	599	Steel	False	270	40	55	70	45	60	30
+661	Klang	600	Steel	False	390	60	80	95	70	85	50
+662	Klinklang	601	Steel	False	430	60	100	115	70	85	90
+663	Tynamo	602	Electric	False	215	35	55	40	45	40	60
+664	Eelektrik	603	Electric	False	365	65	85	70	75	70	40
+665	Eelektross	604	Electric	False	465	85	115	80	105	80	50
+666	Elgyem	605	Psychic	False	305	55	55	55	85	55	30
+667	Beheeyem	606	Psychic	False	445	75	75	75	125	95	40
+668	Litwick	607	Ghost	False	255	50	30	55	65	55	20
+669	Lampent	608	Ghost	False	315	60	40	60	95	60	55
+670	Chandelure	609	Ghost	False	440	60	55	90	145	90	80
+671	Axew	610	Dragon	False	263	46	87	60	30	40	57
+672	Fraxure	611	Dragon	False	343	66	117	70	40	50	67
+673	Haxorus	612	Dragon	False	443	76	147	90	60	70	97
+674	Cubchoo	613	Ice	False	265	55	70	40	60	40	40
+675	Beartic	614	Ice	False	435	95	110	80	70	80	50
+676	Cryogonal	615	Ice	False	380	70	50	30	95	135	105
+677	Shelmet	616	Bug	False	280	50	40	85	40	65	25
+678	Accelgor	617	Bug	False	350	80	70	40	100	60	145
+679	Stunfisk	618	Ground	False	439	109	66	84	81	99	32
+680	Mienfoo	619	Fighting	False	285	45	85	50	55	50	65
+681	Mienshao	620	Fighting	False	405	65	125	60	95	60	105
+682	Druddigon	621	Dragon	False	437	77	120	90	60	90	48
+683	Golett	622	Ground	False	268	59	74	50	35	50	35
+684	Golurk	623	Ground	False	428	89	124	80	55	80	55
+685	Pawniard	624	Dark	False	280	45	85	70	40	40	60
+686	Bisharp	625	Dark	False	420	65	125	100	60	70	70
+687	Bouffalant	626	Normal	False	435	95	110	95	40	95	55
+688	Rufflet	627	Normal	False	290	70	83	50	37	50	60
+689	Braviary	628	Normal	False	430	100	123	75	57	75	80
+690	Vullaby	629	Dark	False	310	70	55	75	45	65	60
+691	Mandibuzz	630	Dark	False	430	110	65	105	55	95	80
+692	Heatmor	631	Fire	False	419	85	97	66	105	66	65
+693	Durant	632	Bug	False	375	58	109	112	48	48	109
+694	Deino	633	Dark	False	262	52	65	50	45	50	38
+695	Zweilous	634	Dark	False	362	72	85	70	65	70	58
+696	Hydreigon	635	Dark	False	502	92	105	90	125	90	98
+697	Larvesta	636	Bug	False	300	55	85	55	50	55	60
+698	Volcarona	637	Bug	False	450	85	60	65	135	105	100
+699	Cobalion	638	Steel	True	472	91	90	129	90	72	108
+700	Terrakion	639	Rock	True	472	91	129	90	72	90	108
+701	Virizion	640	Grass	True	472	91	90	72	90	129	108
+702	TornadusIncarnate Forme	641	Flying	True	469	79	115	70	125	80	111
+703	TornadusTherian Forme	641	Flying	True	459	79	100	80	110	90	121
+704	ThundurusIncarnate Forme	642	Electric	True	469	79	115	70	125	80	111
+705	ThundurusTherian Forme	642	Electric	True	479	79	105	70	145	80	101
+706	Reshiram	643	Dragon	True	590	100	120	100	150	120	90
+707	Zekrom	644	Dragon	True	590	100	150	120	120	100	90
+708	LandorusIncarnate Forme	645	Ground	True	499	89	125	90	115	80	101
+709	LandorusTherian Forme	645	Ground	True	509	89	145	90	105	80	91
+710	Kyurem	646	Dragon	True	565	125	130	90	130	90	95
+711	KyuremBlack Kyurem	646	Dragon	True	605	125	170	100	120	90	95
+712	KyuremWhite Kyurem	646	Dragon	True	605	125	120	90	170	100	95
+713	KeldeoOrdinary Forme	647	Water	False	472	91	72	90	129	90	108
+714	KeldeoResolute Forme	647	Water	False	472	91	72	90	129	90	108
+715	MeloettaAria Forme	648	Normal	False	510	100	77	77	128	128	90
+716	MeloettaPirouette Forme	648	Normal	False	472	100	128	90	77	77	128
+717	Genesect	649	Bug	False	501	71	120	95	120	95	99
+718	Chespin	650	Grass	False	275	56	61	65	48	45	38
+719	Quilladin	651	Grass	False	348	61	78	95	56	58	57
+720	Chesnaught	652	Grass	False	466	88	107	122	74	75	64
+721	Fennekin	653	Fire	False	247	40	45	40	62	60	60
+722	Braixen	654	Fire	False	336	59	59	58	90	70	73
+723	Delphox	655	Fire	False	430	75	69	72	114	100	104
+724	Froakie	656	Water	False	243	41	56	40	62	44	71
+725	Frogadier	657	Water	False	308	54	63	52	83	56	97
+726	Greninja	658	Water	False	408	72	95	67	103	71	122
+727	Bunnelby	659	Normal	False	180	38	36	38	32	36	57
+728	Diggersby	660	Normal	False	345	85	56	77	50	77	78
+729	Fletchling	661	Normal	False	216	45	50	43	40	38	62
+730	Fletchinder	662	Fire	False	298	62	73	55	56	52	84
+731	Talonflame	663	Fire	False	373	78	81	71	74	69	126
+732	Scatterbug	664	Bug	False	165	38	35	40	27	25	35
+733	Spewpa	665	Bug	False	184	45	22	60	27	30	29
+734	Vivillon	666	Bug	False	322	80	52	50	90	50	89
+735	Litleo	667	Fire	False	297	62	50	58	73	54	72
+736	Pyroar	668	Fire	False	401	86	68	72	109	66	106
+737	Flabébé	669	Fairy	False	261	44	38	39	61	79	42
+738	Floette	670	Fairy	False	319	54	45	47	75	98	52
+739	Florges	671	Fairy	False	477	78	65	68	112	154	75
+740	Skiddo	672	Grass	False	298	66	65	48	62	57	52
+741	Gogoat	673	Grass	False	463	123	100	62	97	81	68
+742	Pancham	674	Fighting	False	305	67	82	62	46	48	43
+743	Pangoro	675	Fighting	False	437	95	124	78	69	71	58
+744	Furfrou	676	Normal	False	370	75	80	60	65	90	102
+745	Espurr	677	Psychic	False	287	62	48	54	63	60	68
+746	MeowsticMale	678	Psychic	False	362	74	48	76	83	81	104
+747	MeowsticFemale	678	Psychic	False	362	74	48	76	83	81	104
+748	Honedge	679	Steel	False	297	45	80	100	35	37	28
+749	Doublade	680	Steel	False	413	59	110	150	45	49	35
+750	AegislashBlade Forme	681	Steel	False	460	60	150	50	150	50	60
+751	AegislashShield Forme	681	Steel	False	460	60	50	150	50	150	60
+752	Spritzee	682	Fairy	False	318	78	52	60	63	65	23
+753	Aromatisse	683	Fairy	False	433	101	72	72	99	89	29
+754	Swirlix	684	Fairy	False	292	62	48	66	59	57	49
+755	Slurpuff	685	Fairy	False	408	82	80	86	85	75	72
+756	Inkay	686	Dark	False	243	53	54	53	37	46	45
+757	Malamar	687	Dark	False	409	86	92	88	68	75	73
+758	Binacle	688	Rock	False	256	42	52	67	39	56	50
+759	Barbaracle	689	Rock	False	432	72	105	115	54	86	68
+760	Skrelp	690	Poison	False	290	50	60	60	60	60	30
+761	Dragalge	691	Poison	False	450	65	75	90	97	123	44
+762	Clauncher	692	Water	False	286	50	53	62	58	63	44
+763	Clawitzer	693	Water	False	441	71	73	88	120	89	59
+764	Helioptile	694	Electric	False	219	44	38	33	61	43	70
+765	Heliolisk	695	Electric	False	372	62	55	52	109	94	109
+766	Tyrunt	696	Rock	False	314	58	89	77	45	45	48
+767	Tyrantrum	697	Rock	False	450	82	121	119	69	59	71
+768	Amaura	698	Rock	False	316	77	59	50	67	63	46
+769	Aurorus	699	Rock	False	463	123	77	72	99	92	58
+770	Sylveon	700	Fairy	False	465	95	65	65	110	130	60
+771	Hawlucha	701	Fighting	False	382	78	92	75	74	63	118
+772	Dedenne	702	Electric	False	330	67	58	57	81	67	101
+773	Carbink	703	Rock	False	450	50	50	150	50	150	50
+774	Goomy	704	Dragon	False	260	45	50	35	55	75	40
+775	Sliggoo	705	Dragon	False	392	68	75	53	83	113	60
+776	Goodra	706	Dragon	False	520	90	100	70	110	150	80
+777	Klefki	707	Steel	False	395	57	80	91	80	87	75
+778	Phantump	708	Ghost	False	271	43	70	48	50	60	38
+779	Trevenant	709	Ghost	False	418	85	110	76	65	82	56
+780	PumpkabooAverage Size	710	Ghost	False	284	49	66	70	44	55	51
+781	PumpkabooSmall Size	710	Ghost	False	279	44	66	70	44	55	56
+782	PumpkabooLarge Size	710	Ghost	False	289	54	66	70	44	55	46
+783	PumpkabooSuper Size	710	Ghost	False	294	59	66	70	44	55	41
+784	GourgeistAverage Size	711	Ghost	False	410	65	90	122	58	75	84
+785	GourgeistSmall Size	711	Ghost	False	395	55	85	122	58	75	99
+786	GourgeistLarge Size	711	Ghost	False	425	75	95	122	58	75	69
+787	GourgeistSuper Size	711	Ghost	False	440	85	100	122	58	75	54
+788	Bergmite	712	Ice	False	276	55	69	85	32	35	28
+789	Avalugg	713	Ice	False	486	95	117	184	44	46	28
+790	Noibat	714	Flying	False	190	40	30	35	45	40	55
+791	Noivern	715	Flying	False	412	85	70	80	97	80	123
+792	Xerneas	716	Fairy	True	581	126	131	95	131	98	99
+793	Yveltal	717	Dark	True	581	126	131	95	131	98	99
+794	Zygarde50% Forme	718	Dragon	True	505	108	100	121	81	95	95
+795	Diancie	719	Rock	True	550	50	100	150	100	150	50
+796	DiancieMega Diancie	719	Rock	True	590	50	160	110	160	110	110
+797	HoopaHoopa Confined	720	Psychic	True	530	80	110	60	150	130	70
+798	HoopaHoopa Unbound	720	Psychic	True	600	80	160	60	170	130	80
+799	Volcanion	721	Fire	True	530	80	110	120	130	90	70

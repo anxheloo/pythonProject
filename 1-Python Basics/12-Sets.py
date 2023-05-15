@@ -1,4 +1,9 @@
-#Sets - it does not allow dublicate elements, different from lists we use curly braces
+'''
+    Sets - it does not allow dublicate elements, different from lists we use curly braces
+'''
+
+mySet = set("hello")
+print(mySet)
 
 numbers = {1,2,3,4,5,6}
 print(numbers)
@@ -28,6 +33,10 @@ print(setA & setB)
 
 #substract setB from setA - removes elements of setB and common elements of setA that are in setB, so we get 1,2,3
 print(setA - setB)
+
+# Unchangable set -> We can add or remove from here
+a = frozenset([1,2,3,4])
+print(a)
 
 
 
